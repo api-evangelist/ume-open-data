@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://opendata.umea.se/api/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ume-open-data-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ume-open-data-domain-security.yml
   - type: Website
     url: https://opendata.umea.se/api/
   - type: PublicAPIsListing
