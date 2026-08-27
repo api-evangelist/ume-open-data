@@ -24,6 +24,7 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Open Data
   - Public APIs
+  - Sweden
 apis:
   - name: Umeå Open Data
     description: "Open data of the city Umeå in northen Sweden"
