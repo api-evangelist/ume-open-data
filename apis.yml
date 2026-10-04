@@ -40,7 +40,6 @@ apis:
   - name: Umeå Open Data
     description: "Open data of the city Umeå in northen Sweden"
     humanURL: https://opendata.umea.se/api/
-    baseURL: https://opendata.umea.se/api/
     tags:
       - Open Data
     properties:
